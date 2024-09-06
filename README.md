@@ -24,7 +24,7 @@ The database consists of the following tables:
 
 The following diagram represents the structure of the Music Store database schema:
 
-![Schema Diagram](schema.png)
+![Schema Diagram](schema_diagram.png)
 
 ## Requirements
 
